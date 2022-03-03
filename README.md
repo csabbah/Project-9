@@ -8,7 +8,6 @@ To practice web development skills.
 
 - HTML
 - CSS
-- JavaScript
 
 ## Website
 
